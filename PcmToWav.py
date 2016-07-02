@@ -43,3 +43,4 @@ noise_file3.writeframes(value_all)
 noise_file3.close()
 d4 = datetime.datetime.now()
 print('第三种方法所花费的时间：'), (d4-d3)
+#测试
